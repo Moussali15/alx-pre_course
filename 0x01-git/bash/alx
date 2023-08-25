@@ -1,7 +1,4 @@
 #!/bin/bash
-echo "ALX"
-^C
-^c
-root@5647f2fed760:/alx-pre_course/0x01-git/bash# cd ..
-cd ..
+echo "ALX School"
+
 
